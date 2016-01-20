@@ -1,0 +1,1 @@
+include ':app', ':myappconverter_library', ':myappconverter_ios_android_mapping_lib-release'

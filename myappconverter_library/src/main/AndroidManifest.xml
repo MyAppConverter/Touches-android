@@ -1,0 +1,10 @@
+<manifest android:versionCode="1" android:versionName="1.0"
+    package="com.myappconverter"
+    xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <uses-sdk android:minSdkVersion="16" android:targetSdkVersion="21" tools:overrideLibrary="com.myappconverter.java"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-feature android:name="android.hardware.sensor.gyroscope" android:required="false"/>
+    <application android:allowBackup="true"
+        android:icon="@drawable/ic_launcher_default"
+        android:label="app_name" android:theme="@style/Theme.AppCompat.NoActionBar"/>
+</manifest>

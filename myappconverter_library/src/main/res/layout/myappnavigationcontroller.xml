@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent" android:orientation="vertical" xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.myappconverter.uikit.myappclasses.MyAppNavigationBar
+        android:gravity="right" android:id="@+id/navbar"
+        android:layout_height="50dp" android:layout_width="fill_parent"
+        android:tag="mynavbar" android:visibility="visible"/>
+    <RelativeLayout android:id="@+id/custom_content"
+        android:layout_height="wrap_content" android:layout_weight="1" android:layout_width="match_parent">
+        <RelativeLayout android:background="#ffA"
+            android:layout_height="fill_parent" android:layout_width="fill_parent">
+            <TextView android:hint="TextViewTdddest"
+                android:id="@+id/kIfff" android:layout_height="43dp"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="140dp"
+                android:layout_width="441dp" android:text="ToolBarTest" android:textColor="#FFF"/>
+        </RelativeLayout>
+    </RelativeLayout>
+    <com.myappconverter.uikit.myappclasses.MyAppToolbar
+        android:id="@+id/toolbar" android:layout_height="50dp"
+        android:layout_width="fill_parent" android:tag="mytoolbar" android:visibility="gone"/>
+</LinearLayout>

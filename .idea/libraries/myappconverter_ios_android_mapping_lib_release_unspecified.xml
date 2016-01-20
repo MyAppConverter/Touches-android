@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="myappconverter_ios_android_mapping_lib-release-unspecified">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Touches/myappconverter_ios_android_mapping_lib-release/unspecified/jars/classes.jar!/" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Touches/myappconverter_ios_android_mapping_lib-release/unspecified/jars/libs/com.myappconverter.mapping.annotations-1.0.5.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Touches/myappconverter_ios_android_mapping_lib-release/unspecified/res" />
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/Touches/myappconverter_ios_android_mapping_lib-release/unspecified/jars/libs/javassist.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

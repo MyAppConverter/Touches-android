@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('myappconverter_ios_android_mapping_lib-release.aar'))
